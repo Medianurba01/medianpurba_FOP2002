@@ -19,4 +19,5 @@ int main () {
   cout <<"12*5 = " << perkalian << endl;
   cout <<"12/5 = " <<pembagian<< endl;
   cout <<"12%5 = " << reminder<< endl;
+  return 0;
 }
