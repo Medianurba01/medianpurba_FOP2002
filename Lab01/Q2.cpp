@@ -11,7 +11,7 @@ int main (){
   keliling = 2*pi*radius;
   // menampilkan hasil di screen
   cout <<"radius="<< radius << endl;
-  cout <<"luas"= << luas << endl;
+  cout <<"luas =" << luas << endl;
   cout <<"keliling=" << keliling << endl;
   return 0;
 }
