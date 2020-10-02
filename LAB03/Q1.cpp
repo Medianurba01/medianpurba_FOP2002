@@ -15,7 +15,7 @@ cin>> number;
 if ( remainder == 0)
  cout << number << "is an even integer" << endl;
 else 
-cout << number <<" is an odd integer";
+cout << number <<" is an odd integer" << endl;
 
 return 0;
 
